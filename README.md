@@ -4,8 +4,9 @@ I am currently a Data Science grad student at the University of Pittsburgh. I ha
 
 - 🔭 I’m currently working on my Masters in Data Science
 - 📚 I'm currently learning...
-      * Python
-      * Data visualization tools (Tableau)
+
+  * Python
+  * Data visualization tools (Tableau)
 - ⚡ I'm eager to join new projects and learn from experts in the field!
 - 📫 How to reach me: megmcdonough862@gmail.com
 -->
